@@ -3,5 +3,5 @@ name=CloudflareDNS4Magisk
 version=v2.6
 versionCode=26
 author=Rom
-description=Using the new Cloudflare DNS system-lessy! As simple as that.
+description=在System-less下使用全新的Cloudflare DNS吧!就是这么简单。（汉化者注:需要Magisk版本为v17+）
 minMagisk=17000
