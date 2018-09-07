@@ -1,12 +1,12 @@
 ![alt text](https://image.ibb.co/e6OwXH/cloudflare.jpg "Logo CloudFareDNS4Magisk")
 
-Hello,
+# Hello,
 
 
 ### 正如John Graham-Cumming所说，Cloudflare现在提供了自己的DNS服务。
 ### 如果我们相信他的话，那么你一定会感到惊讶：你的浏览历史并没有保存在他们的服务器上！
 
-### DNS ?? Gne ?? 这是神马 ??
+# DNS ?? Gne ?? 这是神马 ??
 
 简而言之：DNS服务器将监听并提供您网站请求的相应IP地址及其域名。例如，forum.xda-developers.com（XDA论坛）。
 
